@@ -12,3 +12,6 @@ Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 - [Zion AI Call Analytics](https://ziontechgroup.com/zion-ai-call-analytics/)
 - [Zion AI Pricing Optimizer](https://ziontechgroup.com/zion-ai-pricing-optimizer/)
 - [Zion AI Onboarding Assistant](https://ziontechgroup.com/zion-ai-onboarding-assistant/)
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
